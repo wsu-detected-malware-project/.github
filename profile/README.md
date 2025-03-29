@@ -1,4 +1,4 @@
-## detected malware using ai
+##AI based detected malware
 
 <!--
 
